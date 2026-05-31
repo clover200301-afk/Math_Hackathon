@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pnpm install *)",
+      "Bash(pnpm dev *)",
+      "Bash(curl -s http://localhost:3000/)",
+      "Bash(curl -s http://localhost:3000/src/pages/Home.tsx)",
+      "Bash(curl -s http://localhost:3000/src/index.css)",
+      "Bash(curl -s http://localhost:3000/src/config/site.ts)",
+      "Bash(git init *)",
+      "Bash(git add *)",
+      "Bash(git commit -m 'Initial commit: Math Hackathon 2026 website *)"
+    ]
+  }
+}
