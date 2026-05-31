@@ -9,7 +9,20 @@
       "Bash(curl -s http://localhost:3000/src/config/site.ts)",
       "Bash(git init *)",
       "Bash(git add *)",
-      "Bash(git commit -m 'Initial commit: Math Hackathon 2026 website *)"
+      "Bash(git commit -m 'Initial commit: Math Hackathon 2026 website *)",
+      "Bash(git rebase *)",
+      "Bash(git stash *)",
+      "Bash(git push *)",
+      "Bash(git pull *)",
+      "Bash(git commit -m 'docs: add Chinese version of README *)",
+      "Bash(pnpm build *)",
+      "Bash(pnpm test *)",
+      "Bash(pnpm vitest *)",
+      "Bash(pnpm check *)",
+      "WebSearch",
+      "WebFetch(domain:www.alibabacloud.com)",
+      "WebFetch(domain:help.aliyun.com)",
+      "WebFetch(domain:codeup.aliyun.com)"
     ]
   }
 }
